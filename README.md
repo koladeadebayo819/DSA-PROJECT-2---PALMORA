@@ -65,5 +65,5 @@ This is a column where our condition statement was done by grouping each band in
 **Merge table**
 I created a merge table to be able to get the employee who’s worthy of a bonus base on their performance rating so I was able to merge the DSF_emp_data and the bonus rules table together. I merged them by joining their unique identifier which is the “Department” column so that gives me the bonus discount column [See preview below;]
 
-![Merged](<img width="918" height="477" alt="image" src="https://github.com/user-attachments/assets/dfbd6b27-4f4c-4bff-a3c5-ebd279590470" />)
+![Merged](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/merge.PNG)
 
