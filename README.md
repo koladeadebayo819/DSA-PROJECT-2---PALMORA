@@ -38,7 +38,7 @@ Using M language and a host of tools available in Power Query Editor, I was able
 One of the issues identified during the data cleaning process was with the “Gender” column. The column contains male, female and blank so I replaced the blank with Undisclosed. The power query replaced values was used. [See preview below;]
 
 before column after column
-   ![Before image](<img width="167" height="515" alt="image" src="https://github.com/user-attachments/assets/9acddc3e-d0b7-4d6c-9d37-a5f9751f7a56"/>)
+   ![Before image](<img width="167"height="515"alt="image"src="https://github.com/user-attachments/assets/9acddc3e-d0b7-4d6c-9d37-a5f9751f7a56"/>)
    ![After image](<img width="167" height="516" alt="image" src="https://github.com/user-attachments/assets/54d68475-df77-4d44-88cd-ebb13e39f72d"/>)
 
 **Department column**
