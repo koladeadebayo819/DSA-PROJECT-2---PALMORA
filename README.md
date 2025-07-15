@@ -43,7 +43,6 @@ before column after column
 
 **Department column**
 There are few rows that has a “NULL” text in the column so I removed it by unchecking it from the list of other department rows. Which gives our rows to reduce to 987 rows [See preview below;]
-
 before column after column
   ![Before image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/department1.PNG)
   ![After image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/department2.PNG)
@@ -54,10 +53,10 @@ There are few rows that has a “null” text in the column so I removed it by u
 
 before column after column
   ![before image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/salary1.PNG)
-  ![after image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/salary2.PNG>)
+  ![after image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/salary2.PNG)
 
 **Salary band column**
-This is a column where our condition statement was done by grouping each band into their various categories ..ie an IF statement ; For example; if [Salary] <= 60000 then “band 3” else “band 3”) . [See preview below;]
+This is a column where our condition statement was done by grouping each band into their various categories ..ie an IF statement ; For example; if [Salary] <= 20000 then “10001-20000” ) . [See preview below;]
 
 
  ![*Salary band*](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/salaryband.PNG)
