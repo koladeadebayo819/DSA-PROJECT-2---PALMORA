@@ -45,25 +45,25 @@ before column after column
 There are few rows that has a “NULL” text in the column so I removed it by unchecking it from the list of other department rows. Which gives our rows to reduce to 987 rows [See preview below;]
 
 before column after column
-  ![Before image](<img width="168" height="511" alt="image" src="https://github.com/user-attachments/assets/829707bd-8c6d-4818-b90e-c4c7d66b952f" />)
-  ![After image](<img width="164" height="451" alt="image" src="https://github.com/user-attachments/assets/47b4a544-1882-4c1a-a3c7-ccd5bbb30dae" />)
+  ![Before image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/department1.PNG)
+  ![After image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/department2.PNG)
 
 
 **Salary Column**
 There are few rows that has a “null” text in the column so I removed it by unchecking it from the list of other salary rows. Which gives our rows to reduce to 946 rows [See preview below;]
 
 before column after column
-![before image](<img width="166" height="517" alt="image" src="https://github.com/user-attachments/assets/2fbd09d3-5fbf-4d4c-bbbc-dffd563e478d" />)
-![after image](<img width="161" height="452" alt="image" src="https://github.com/user-attachments/assets/bd375bae-43a3-42e4-b8c3-f9afa015a76f" />)
+  ![before image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/salary1.PNG)
+  ![after image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/salary2.PNG>)
 
-Salary band column
+**Salary band column**
 This is a column where our condition statement was done by grouping each band into their various categories ..ie an IF statement ; For example; if [Salary] <= 60000 then “band 3” else “band 3”) . [See preview below;]
 
 *Salary band*
-![salaryband image](![salaryband1](https://github.com/user-attachments/assets/a826a44c-485c-42a4-818c-7fb66a392c6b))
+ ![salaryband image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/salaryband.PNG)
 
 **Merge table**
 I created a merge table to be able to get the employee who’s worthy of a bonus base on their performance rating so I was able to merge the DSF_emp_data and the bonus rules table together. I merged them by joining their unique identifier which is the “Department” column so that gives me the bonus discount column [See preview below;]
 
-![Merged](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/merge.PNG)
+  ![Merged](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/merge.PNG)
 
