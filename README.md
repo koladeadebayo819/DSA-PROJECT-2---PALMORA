@@ -59,8 +59,8 @@ before column after column
 **Salary band column**
 This is a column where our condition statement was done by grouping each band into their various categories ..ie an IF statement ; For example; if [Salary] <= 60000 then “band 3” else “band 3”) . [See preview below;]
 
-*Salary band*
- ![salaryband image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/salaryband.PNG)
+
+ ![*Salary band*](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/salaryband.PNG)
 
 **Merge table**
 I created a merge table to be able to get the employee who’s worthy of a bonus base on their performance rating so I was able to merge the DSF_emp_data and the bonus rules table together. I merged them by joining their unique identifier which is the “Department” column so that gives me the bonus discount column [See preview below;]
