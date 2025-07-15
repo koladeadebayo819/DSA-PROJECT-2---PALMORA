@@ -60,7 +60,7 @@ Salary band column
 This is a column where our condition statement was done by grouping each band into their various categories ..ie an IF statement ; For example; if [Salary] <= 60000 then “band 3” else “band 3”) . [See preview below;]
 
 *Salary band*
-![salaryband image](![palmora dashboard44](https://github.com/user-attachments/assets/898ec980-65b6-4da3-ae4a-747e2c3849c5))
+![salaryband image](<img width="166" height="457" alt="salaryband" src="https://github.com/user-attachments/assets/d9c6af53-606c-4aaf-86f5-e1e8a56f3878" />)
 
 **Merge table**
 I created a merge table to be able to get the employee who’s worthy of a bonus base on their performance rating so I was able to merge the DSF_emp_data and the bonus rules table together. I merged them by joining their unique identifier which is the “Department” column so that gives me the bonus discount column [See preview below;]
