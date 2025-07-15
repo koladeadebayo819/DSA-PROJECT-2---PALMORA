@@ -39,7 +39,7 @@ One of the issues identified during the data cleaning process was with the “Ge
 
 before column after column
    ![Before image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/gender1.PNG)
-   ![After image](<img width="167" height="516" alt="image" src="https://github.com/user-attachments/assets/54d68475-df77-4d44-88cd-ebb13e39f72d"/>)
+   ![After image](<img width="167" height="516" alt="image" src="https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/gender2.PNG"/>)
 
 **Department column**
 There are few rows that has a “NULL” text in the column so I removed it by unchecking it from the list of other department rows. Which gives our rows to reduce to 987 rows [See preview below;]
