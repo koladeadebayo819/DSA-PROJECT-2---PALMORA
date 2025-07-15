@@ -43,9 +43,10 @@ before column after column
 
 **Department column**
 There are few rows that has a “NULL” text in the column so I removed it by unchecking it from the list of other department rows. Which gives our rows to reduce to 987 rows [See preview below;]
+
 before column after column
-  ![Before image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/department1.PNG)
-  ![After image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/department2.PNG)
+![Before image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/department1.PNG)
+![After image](https://github.com/koladeadebayo819/DSA-PROJECT-2---PALMORA/blob/main/department2.PNG)
 
 
 **Salary Column**
